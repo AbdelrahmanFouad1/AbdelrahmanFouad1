@@ -46,7 +46,7 @@ Discover trips, activities & events created for you by passionate locals.<br />
 
 <!-- - android : https://play.google.com/store/apps/details?id=com.fosha.app
 - ios : https://apps.apple.com/us/app/fosha/id1600031499 -->
-<hr>
+
 
 
 
