@@ -49,50 +49,7 @@ Discover trips, activities & events created for you by passionate locals.<br />
 <hr>
 
 
-### AppBear
 
-AppBear is a News and Social Network Application.<br />
-
-<p><a href="https://play.google.com/store/apps/details?id=io.appbear.application" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/appbear/id1548685005" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
-
-<hr>
-
-<!-- - android : https://play.google.com/store/apps/details?id=io.appbear.application
-- ios : https://apps.apple.com/eg/app/appbear/id1548685005
----------------------------------------------------- -->
-### Discy
-
-Discy is an official application of Discy WordPress Themes on Envato Marketplace.<br />
-
-<p><a href="https://play.google.com/store/apps/details?id=app.ask.application" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/discy/id1535374585" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
-
-<hr>
-
-<!-- - android : https://play.google.com/store/apps/details?id=app.ask.application
-- ios : https://apps.apple.com/eg/app/discy/id1535374585 
----------------------------------------------------- -->
-### DaShop
-
-All the tools you need to build a successful store, own a professional store with minimal costs and no commission on sales.<br />
-
-<p><a href="https://play.google.com/store/apps/details?id=com.dashop.app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/dashop/id1564735827" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
-
-<hr>
-
-<!-- - android : https://play.google.com/store/apps/details?id=com.dashop.app
-- ios : https://apps.apple.com/eg/app/dashop/id1564735827
----------------------------------------------------- -->
-### Kermalk
-
-Kermalk is the first smart rewards platform in Saudi Arabia that offers you instant rewards with every visit to your favorite places. And as we greatly appreciate your visit, the sooner your return, the better offers you will get!<br />
-
-<p><a href="https://play.google.com/store/apps/details?id=com.intcore.kermalk.android" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/kermalk-%D9%83%D8%B1%D9%85%D8%A7%D9%84%D9%83/id1496665865" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
-
-<hr>
-
-<!-- - android : https://play.google.com/store/apps/details?id=com.intcore.kermalk.android
-- ios : https://apps.apple.com/us/app/kermalk-%D9%83%D8%B1%D9%85%D8%A7%D9%84%D9%83/id1496665865 
----------------------------------------------------- -->
 ### Zey
 
 Hey there, fashion enthusiasts! Zey App is the new way to shop your favorite medical brands in a very smooth way! Get your hands first on the latest collections from 200+ products like Scrubs, Lab Coats, Accessories, and more.<br />
