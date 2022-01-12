@@ -48,20 +48,7 @@ Discover trips, activities & events created for you by passionate locals.<br />
 - ios : https://apps.apple.com/us/app/fosha/id1600031499 -->
 <hr>
 
-### Zadcall
 
-Zadcall help you get in touch with experts in many fields through voice calls or video calls.<br />
-All you have to do is to download Zadcall App and call the expert you need directly.<br />
-You don’t have to put your name in waiting lists and waste time in waiting rooms for you to get the professional help you need.<br />
-Zadcall allows you to call experts directly through the numbers they have listed in our app.<br />
-
-<p><a href="https://play.google.com/store/apps/details?id=com.zadcall.app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/app/id1525329429" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
-
-<hr>
-
-<!-- - android : https://play.google.com/store/apps/details?id=com.zadcall.app
-- ios : https://apps.apple.com/app/id1525329429 
----------------------------------------------------- -->
 ### AppBear
 
 AppBear is a News and Social Network Application.<br />
