@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Abd-Elrahman Fouad 👋:heart: </h2>
+<h2> Hi there, I'm Abd-elrahman Fouad 👋:heart: </h2>
 
 <!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
  -->
