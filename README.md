@@ -7,18 +7,7 @@
 <hr>
 
 
-<h2> Languages and Tools </h2>
-<p><img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
-<p><img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" /> 
-<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /> 
-<img align="left" alt=“Java” width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" /> 
-<img align="left" alt=“Android” width="26px" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" />
-<img align="left" alt=“Trello” width="26px" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" />
-<img align="left" alt=“Postman” width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-<img align="left" alt=“Git” width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
- <br/>
- 
-<hr>
+
 
 
 
@@ -42,6 +31,22 @@ AbdelrahmanFouad1" target="_blank"><img alt="Github2" src="https://img.shields.i
 - instagram : https://www.instagram.com/abdo_m_fouad  -->
  
 <hr>
+
+
+
+<h2> Languages and Tools </h2>
+<p><img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
+<p><img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" /> 
+<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /> 
+<img align="left" alt=“Java” width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" /> 
+<img align="left" alt=“Android” width="26px" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" />
+<img align="left" alt=“Trello” width="26px" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" />
+<img align="left" alt=“Postman” width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+<img align="left" alt=“Git” width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+ <br/>
+ 
+<hr>
+
 
 <h2> Samples from my projects </h2>
 
