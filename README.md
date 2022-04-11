@@ -75,7 +75,7 @@ Discover trips, activities & events created for you by passionate locals.<br />
 
  
 <br/>
- <h3 align="center">Statistics</h3>
+ <h2> Statistics</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanFouad1&show_icons=true&show_icons=true&theme=radical" alt="github-stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanFouad1&layout=compact&show_icons=true&theme=radical" alt="top-langs" />
