@@ -8,13 +8,13 @@
 <hr>
 
 
-<!-- 👋💙 -->
+<!-- 👋💙 🤝 -->
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=AbdelrahmanFouad1&label=Visitors&color=blue&style=plastic" alt="gauravsingh9356" /> </p> -->
 
 
 
 
-<h2> Contact with me on 🤝</h2>
+<h2> Contact with me on </h2>
 
 <!-- <h3>Where to find me</h3>
 <p><a href="https://github.com/
