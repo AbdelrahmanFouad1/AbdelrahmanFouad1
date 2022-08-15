@@ -68,6 +68,12 @@ Medicalempire.com Provides you a reliable shopping experience in one place with 
 
 <hr>
 
+### Otlaat
+When you are ready to travel, the Otalat App is your best tool for finding and booking the very best deals on any kind of accommodation, anywhere in the world. Download the app now and enjoy discounts and other exclusive offers Book in more than 900,000 hotels and apartments at the lowest price in more than 200 countries.
+<p><a href="https://play.google.com/store/apps/details?id=hotels.otlaat.com" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/otlaat/id1579487881" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
 ### Fosha
 
 Fosha - فسحة is your go-to app for all fun things to do in Egypt.<br />
