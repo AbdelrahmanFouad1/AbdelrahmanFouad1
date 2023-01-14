@@ -81,8 +81,6 @@ We are here to solve all your cleaning issues. We take up this responsibility gl
 <a href="https://apps.apple.com/us/app/tekram-home-cleaning-service/id1642682373" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
- 
- <hr>
 
 ### Medical Empire
 Medicalempire.com is the leading e-commerce in health products market. With a convenient platform for both seller and buyer.<br />
