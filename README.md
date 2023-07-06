@@ -84,6 +84,18 @@ The ease of use and innovative design provides you with complete control over yo
 
 <hr>
 
+
+### KIB Aqari
+KIB Aqari: Your one-stop shop for real estate needs. Easily manage your portfolio in the palm of your hand. Automate rent collection and request appraisals.
+At KIB, we understand that managing real estate can be a challenge - that's why we've created KIB Aqari, the one-stop shop that makes it easy to manage, evaluate, and maximize your properties. Whether you're a seasoned investor or just starting out, our comprehensive platform is designed to help you unlock the full potential of your real estate portfolio, available anytime and anywhere on both the web and mobile.
+With our app, you can also get a comprehensive overview of your real estate portfolio with our dashboard, making it easy to manage your properties, tenants, and financials with ease and confidence. With our cutting-edge design, convenience, and efficiency, you'll wonder how you ever managed without us.
+<p>
+
+  <a href="https://play.google.com/store/apps/details?id=com.kib.aqari" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
+<a href="https://apps.apple.com/us/app/kib-aqari/id6447563934" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
 ### Tekram
 Tekram encompasses everything good about cleaning. We deliver the highest-quality cleaning service to our clients using skilled professionals who are versatile and adept in handling any household task. This has made it possible for us to provide disparate services like residential cleaning services.
 
