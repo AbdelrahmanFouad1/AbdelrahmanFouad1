@@ -105,6 +105,16 @@ We are here to solve all your cleaning issues. We take up this responsibility gl
   <a href="https://play.google.com/store/apps/details?id=com.tekram.app.tekram" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
 <a href="https://apps.apple.com/us/app/tekram-home-cleaning-service/id1642682373" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
+<hr>
+
+### Tahara
+Tahara app is a digital platform that supports women’s health during their menstrual cycle, and pregnancy stages by providing a following up dedicated system with reminders, tips, information, and medical support.
+With Tahara, women and girls will guarantee their privacy, and comfort as they will get all of their personal support in one hand.
+<p>
+
+  <a href="https://play.google.com/store/apps/details?id=com.tahara.tahara_app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
+<a href="https://apps.apple.com/us/app/tahara/id6446452995?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
 
 <hr>
 
