@@ -116,6 +116,15 @@ With Tahara, women and girls will guarantee their privacy, and comfort as they w
 
 <hr>
 
+### Visa Index
+Visa Index is your trusted app for the passport index and visa requirements. Whether you are a frequent traveler, a follower of travel news, or a dedicated researcher, Visa Index helps you explore the latest passport rankings and visa policies, keeping you informed with up-to-date travel news and insights.
+<p>
+
+<a href="https://play.google.com/store/apps/details?id=visaindex.app.visaindex_app&pcampaignid=website" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
+<a href="https://apps.apple.com/ua/app/visa-index/id6471438503" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
 ### Looped
 Is a leading restaurant and payment tech provider, is a one-stop-shop restaurant management ecosystem that enables restaurateurs to effortlessly control, streamline, and grow all their operations, anytime and from anywhere. Whether it’s a cloud kitchen, a dine-in restaurant, a local bakery, a food truck, a quick service restaurant, a franchise, or a large-scale restaurant chain, our product lineup, software solutions.
 <p>
