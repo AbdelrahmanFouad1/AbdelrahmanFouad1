@@ -70,6 +70,16 @@ AbdelrahmanFouad1" target="_blank"><img alt="Github2" src="https://img.shields.i
 
 <h2> Samples from my projects </h2>
 
+
+### Sahseh | صحصح
+Developed the largest discount code platform in the Middle East, amassing over 6 million downloads while enhancing search efficiency by 50%, optimizing performance, and improving user experience to achieve a 4.5-star rating from more than 5,700 reviews.
+<p>
+
+  <a href="https://play.google.com/store/apps/details?id=com.uae.coupons" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
+<a href="https://apps.apple.com/us/app/sahseh-%D8%B5%D8%AD%D8%B5%D8%AD/id1461034917" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
 ### KIB Mobile
 Discover the all-new KIB app, offering seamless banking at your fingertips. Manage accounts, transfers, and payments, and enjoy a rewarding experience. Download now!
 Introducing the all-new, fully integrated KIB app, specifically designed to provide an unparalleled and seamless banking experience like no other. Get ready to embark on a journey of simplicity, where managing your financial matters becomes effortless and intuitive.
