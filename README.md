@@ -105,7 +105,19 @@ With our app, you can also get a comprehensive overview of your real estate port
 
 <hr>
 
-<!---->
+
+### Tekram
+Tekram encompasses everything good about cleaning. We deliver the highest-quality cleaning service to our clients using skilled professionals who are versatile and adept in handling any household task. This has made it possible for us to provide disparate services like residential cleaning services.
+
+We are here to solve all your cleaning issues. We take up this responsibility gladly, giving you time to focus on better things in your life. We provide the highest-class cleaning service in Dubai, giving you nothing short of unmatched quality service.
+<p>
+
+
+  <a href="https://play.google.com/store/apps/details?id=com.tekram.app.tekram" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
+<a href="https://apps.apple.com/us/app/tekram-home-cleaning-service/id1642682373" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
 ### Tahara
 Tahara app is a digital platform that supports women’s health during their menstrual cycle, and pregnancy stages by providing a following up dedicated system with reminders, tips, information, and medical support.
 With Tahara, women and girls will guarantee their privacy, and comfort as they will get all of their personal support in one hand.
@@ -141,8 +153,16 @@ Medicalempire.com Provides you a reliable shopping experience in one place with 
 <p><a href="https://play.google.com/store/apps/details?id=com.medicalempire.medical" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/medical-empire/id1465106135" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
-<!---->
 
+
+### Otlaat
+When you are ready to travel, the Otalat App is your best tool for finding and booking the very best deals on any kind of accommodation, anywhere in the world. Download the app now and enjoy discounts and other exclusive offers Book in more than 900,000 hotels and apartments at the lowest price in more than 200 countries.
+<p><a href="https://play.google.com/store/apps/details?id=hotels.otlaat.com" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/otlaat/id1579487881" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+
+<p>
+
+<hr>
+ 
 ### Fosha
 
 Fosha - فسحة is your go-to app for all fun things to do in Egypt.<br />
@@ -182,18 +202,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-
-<!--
-**AbdelrahmanFouad1/AbdelrahmanFouad1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
